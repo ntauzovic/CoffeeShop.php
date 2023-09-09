@@ -1,0 +1,11 @@
+{
+    "name": "ana/vjezbe-framework2",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {
+      "ext-mysqli": "*"
+    }
+}
